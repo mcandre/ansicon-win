@@ -1,0 +1,6 @@
+SCRIPT=ansicon-1.60-x64.aip
+
+all: installer
+
+installer: $(SCRIPT)
+  AdvancedInstaller /build $(SCRIPT)
