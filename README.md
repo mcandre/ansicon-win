@@ -1,5 +1,15 @@
 # ansicon-win - Windows installer for ansicon
 
+# DOWNLOAD
+
+## x86 / 32-bit
+
+https://github.com/mcandre/ansicon-win/blob/master/ansicon-1.60-x86.msi?raw=true
+
+## x64 / 64-bit
+
+https://github.com/mcandre/ansicon-win/blob/master/ansicon-1.60-x64.msi?raw=true
+
 # CREDITS
 
 Binaries - [ansicon downloads](https://github.com/adoxa/ansicon/downloads)
